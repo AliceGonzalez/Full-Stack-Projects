@@ -1,0 +1,20 @@
+:root{
+    --color-red:#8D251E;
+    --color-blue:#BCCDD5;
+    --color-yellow:#D5A24E;
+    --color-teal:#52958E;
+    --color-pink:#E69776;
+    --color-gray:#312e2e;
+}
+
+body {
+    font-family: "Happy Monkey", cursive;
+    text-align: center;
+    background: var(--color-blue);
+    color: var(--color-gray)
+}
+
+#cat-avatar {
+    border-radius: 50%;
+    width: 200px;
+}
