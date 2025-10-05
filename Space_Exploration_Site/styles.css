@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+} 
+
+button {
+    padding: 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #82a5ca;
+    font-weight: 800;
+}
+
+.underline {
+    border-bottom: 4px solid white;
+}
+
+#space-logo {
+    max-width: 300px;
+}
+
+#hero {
+    background-image: url("./images/galaxy-gif.webp");
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+h1 {
+    text-shadow: 0px 0px 4px black;
+}
